@@ -1,0 +1,9 @@
+{
+  "author": "Alan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "mongoose": "latest"
+  }
+}
